@@ -1,0 +1,65 @@
+#Banner{
+  width: 1000px;
+  height: 400px;
+  background: url('../images/banner/try.jpg') no-repeat;
+  background-size: cover;
+}
+
+
+
+header{
+  overflow: hidden;
+  height: 150px;
+  background: rgb(223, 220, 76);
+    max-width: 1000px;
+}
+
+
+#logo{
+  width: 136px;
+  height: 147px;
+  background: url('../images/logo/logo.png') no-repeat;
+  float: left;
+}
+
+nav>ol>li{
+  width: 120px;
+  height: 140px;
+  float: left;
+  font-size: 20px;
+  font-family: "微軟正黑體";
+}
+.clearboth{clear:both;}
+#Document{
+  max-width: 1000px;
+  margin: auto;
+  }
+  nav{
+    float: right;
+    margin-top: 80px;
+  }
+
+  .left{
+    width: 480px;
+    float: left;
+    text-align: center;
+  }
+  .right{
+    width: 480px;
+    float: left;
+  }
+  #content{
+    overflow: hidden;
+    padding: 20px;
+  }
+footer{
+  max-width: 1000px;
+  clear: both;
+  line-height: 30px;
+  text-align: center;
+  background: rgb(140, 209, 71);
+  padding-top: 10px;
+}
+.fa {
+  color: rgb(54, 38, 148);
+}

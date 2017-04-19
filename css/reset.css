@@ -1,0 +1,15 @@
+/*CSS RESET*/
+BODY{
+  margin: 0;
+  padding:0;
+}
+
+ol{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  }
+  a{
+    color: #rgb(185, 143, 49);
+    text-decoration: none;
+  }
